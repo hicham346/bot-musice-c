@@ -1,0 +1,6 @@
+﻿owner=506938865970446357
+prefix=H
+game=يستمع للاومر هشام
+stayinchannel=true
+songinstatus=false
+token=NjE4MTk4OTE3MTQxNDk1ODE4.XW2N5w.3vRPcEA1o4RK4Z5cOrz5BCAsYlE
